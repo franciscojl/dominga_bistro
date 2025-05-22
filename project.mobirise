@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Carta QR",
-    "currentPage": "carta.html",
+    "currentPage": "carta_dominga.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -58,10 +58,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "carta.html": {
+    "carta_dominga.html": {
       "settings": {
         "main": true,
-        "title": "Bomba Food",
+        "title": "Dominga Café Bistro ☕",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
