@@ -1938,7 +1938,7 @@ a {
 }
 .cid-uLYlHzS0Cb {
   padding-top: 90px;
-  padding-bottom: 120px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/fondo-dominga-cafe-bistro-2025.jpg");
 }
 .cid-uLYlHzS0Cb .mbr-section-subtitle {
@@ -2026,6 +2026,98 @@ a {
   color: #000000;
 }
 .cid-uLYlHzS0Cb .searchInfo {
+  color: #51ffe8;
+}
+.cid-uNmZGBGc3l {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/fondo-dominga-cafe-bistro-2025.jpg");
+}
+.cid-uNmZGBGc3l .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-uNmZGBGc3l .container-table {
+  margin: 0 auto;
+}
+.cid-uNmZGBGc3l .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-uNmZGBGc3l .dataTables_wrapper {
+  display: block;
+}
+.cid-uNmZGBGc3l .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-uNmZGBGc3l .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-uNmZGBGc3l table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #51ffe8;
+  margin-bottom: 0;
+}
+.cid-uNmZGBGc3l table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-uNmZGBGc3l table th:hover {
+  background: #51ffe8;
+  color: #000000;
+}
+.cid-uNmZGBGc3l table td {
+  border-top: 1px solid #51ffe8;
+}
+.cid-uNmZGBGc3l table.table {
+  background: #fafafa;
+}
+.cid-uNmZGBGc3l .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-uNmZGBGc3l .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-uNmZGBGc3l .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-uNmZGBGc3l .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+  color: #f9f9f9;
+}
+@media (max-width: 992px) {
+  .cid-uNmZGBGc3l .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-uNmZGBGc3l .dataTables_filter {
+    text-align: center;
+  }
+  .cid-uNmZGBGc3l .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-uNmZGBGc3l .mbr-section-title {
+  color: #f9f9f9;
+}
+.cid-uNmZGBGc3l .head-item {
+  color: #580fa5;
+}
+.cid-uNmZGBGc3l .body-item {
+  color: #000000;
+}
+.cid-uNmZGBGc3l .searchInfo {
   color: #51ffe8;
 }
 .cid-uM2ltkK8lA {
