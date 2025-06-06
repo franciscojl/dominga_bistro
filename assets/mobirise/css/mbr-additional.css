@@ -3234,7 +3234,7 @@ a {
 }
 .cid-uLYmwfHpRi {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/fondo-dominga-cafe-bistro-2025.jpg");
 }
 .cid-uLYmwfHpRi .mbr-section-subtitle {
@@ -3321,6 +3321,97 @@ a {
   color: #000000;
 }
 .cid-uLYmwfHpRi .searchInfo {
+  color: #ffffff;
+}
+.cid-uNnbfRUaCJ {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/fondo-dominga-cafe-bistro-2025.jpg");
+}
+.cid-uNnbfRUaCJ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-uNnbfRUaCJ .container-table {
+  margin: 0 auto;
+}
+.cid-uNnbfRUaCJ .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-uNnbfRUaCJ .dataTables_wrapper {
+  display: block;
+}
+.cid-uNnbfRUaCJ .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-uNnbfRUaCJ .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-uNnbfRUaCJ table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #51ffe8;
+  margin-bottom: 0;
+}
+.cid-uNnbfRUaCJ table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-uNnbfRUaCJ table th:hover {
+  background: #51ffe8;
+  color: #000000;
+}
+.cid-uNnbfRUaCJ table td {
+  border-top: 1px solid #51ffe8;
+}
+.cid-uNnbfRUaCJ table.table {
+  background: #fafafa;
+}
+.cid-uNnbfRUaCJ .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-uNnbfRUaCJ .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-uNnbfRUaCJ .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-uNnbfRUaCJ .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-uNnbfRUaCJ .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-uNnbfRUaCJ .dataTables_filter {
+    text-align: center;
+  }
+  .cid-uNnbfRUaCJ .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-uNnbfRUaCJ .mbr-section-title {
+  color: #51ffe8;
+}
+.cid-uNnbfRUaCJ .head-item {
+  color: #580fa5;
+}
+.cid-uNnbfRUaCJ .body-item {
+  color: #000000;
+}
+.cid-uNnbfRUaCJ .searchInfo {
   color: #ffffff;
 }
 .cid-uM2lzfAQhr {
