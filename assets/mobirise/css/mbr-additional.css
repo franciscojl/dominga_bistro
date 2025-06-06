@@ -1998,6 +1998,7 @@ a {
   padding-bottom: 1rem;
   padding-top: 1rem;
   white-space: normal !important;
+  color: #f9f9f9;
 }
 @media (max-width: 992px) {
   .cid-uLYlHzS0Cb .dataTables_filter {
@@ -2014,13 +2015,16 @@ a {
   }
 }
 .cid-uLYlHzS0Cb .mbr-section-title {
-  color: #580fa5;
+  color: #f9f9f9;
 }
 .cid-uLYlHzS0Cb .head-item {
   color: #580fa5;
 }
 .cid-uLYlHzS0Cb .body-item {
   color: #000000;
+}
+.cid-uLYlHzS0Cb .searchInfo {
+  color: #51ffe8;
 }
 .cid-uM2ltkK8lA {
   padding-top: 30px;
