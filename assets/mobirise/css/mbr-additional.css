@@ -1040,8 +1040,8 @@ a {
   background-image: url("../../../assets/images/fondo-dominga-cafe-bistro-2025.jpeg");
 }
 .cid-uLXTDwpiIu .mbr-overlay {
-  background: #d0fee2;
-  opacity: 0.6;
+  background: #580fa5;
+  opacity: 0.7;
 }
 .cid-uLXTDwpiIu h6 {
   line-height: 1.2;
@@ -1083,7 +1083,7 @@ a {
   text-align: center;
 }
 .cid-uLXTDwpiIu .mbr-section-title {
-  color: #580fa5;
+  color: #51ffe8;
 }
 .cid-uLXTDwpiIu .mbr-text,
 .cid-uLXTDwpiIu .mbr-section-btn {
@@ -1116,7 +1116,16 @@ a {
 }
 .cid-uLXTDwpiIu .item-title,
 .cid-uLXTDwpiIu .mbr-section-btn {
-  color: #580fa5;
+  color: #51ffe8;
+}
+.cid-uLXTDwpiIu .mbr-section-subtitle {
+  color: #51ffe8;
+}
+.cid-uNn3ECRsMO {
+  background-image: url("../../../assets/images/mbr.jpeg");
+}
+.cid-uNn3ECRsMO H1 {
+  color: #51ffe8;
 }
 .cid-uLYgiizP1e {
   z-index: 1000;
